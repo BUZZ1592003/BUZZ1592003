@@ -1,116 +1,276 @@
-# Hi, I'm Sohan 👋
+<div align="center">
 
-### Frontend & Web Developer | React • Next.js • JavaScript • PHP/Laravel
+# 👋 Hey, I'm Sohan
 
-I'm a web developer from India focused on building modern, responsive, and user-friendly web applications.
+### Frontend Developer • Web Developer • Curious Builder
 
-I enjoy turning ideas into real projects, experimenting with new technologies, and continuously improving my development skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+%26+Web+Developer;React+%7C+Next.js+%7C+JavaScript;PHP+%7C+Laravel+%7C+MySQL;Learning+by+Building;Turning+Ideas+Into+Code;Build.+Break.+Debug.+Repeat." />
 
-Currently, I'm focused on **Frontend and Full-Stack Web Development** and looking for **Fresher / Entry-Level Developer opportunities**.
+<br/>
 
----
+> I like taking ideas, experimenting with them,  
+> breaking things along the way — and figuring out how to make them work.
 
-## 🚀 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-
-### Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
-
-### Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+</div>
 
 ---
 
-## 💻 Featured Projects
+## ⚡ A Little About Me
 
-### 🎓 Real Solution — Education Website
-A modern and responsive education/business website designed with a focus on visual appeal, smooth interactions, and user experience.
+```javascript
+const sohan = {
+    role: "Frontend / Web Developer",
+    basedIn: "India 🇮🇳",
 
-**Tech:** HTML • CSS • JavaScript
+    code: ["JavaScript", "PHP", "Python", "C++"],
 
-🔗 [Live Demo](https://real-solution-demo.vercel.app/)
+    frontend: [
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "PHP",
+        "Laravel",
+        "FastAPI"
+    ],
+
+    database: ["MySQL"],
+
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Advanced JavaScript",
+        "Backend Development"
+    ],
+
+    mindset: "Learn → Build → Break → Debug → Improve"
+};
+```
 
 ---
+
+## 🛠️ Tech I Work With
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,mysql" />
+
+<br/><br/>
+
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+
+</div>
+
+---
+
+## 🚧 What I'm Building
+
+Most of my current work is in the **building, experimenting and learning phase**.
+
+Rather than rushing projects just to call them finished, I'm using them to understand how different parts of software work together.
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🧠 CausalMind
-An experimental probability and decision-outcome simulator that models different timelines based on user actions and decisions.
 
-**Tech:** Python • FastAPI • REST API
+Exploring decision modelling, probabilities and how different actions can lead to different possible outcomes.
 
----
+`Python` `FastAPI`
+
+**Status:** 🚧 Building
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📧 Bulk Email Tool
-A web application for managing contacts, composing emails, and sending bulk emails through SMTP.
 
-**Tech:** Next.js • JavaScript • Prisma • MySQL • Nodemailer • Docker
+Experimenting with full-stack architecture, contact management, databases and SMTP email delivery.
+
+`Next.js` `Prisma` `MySQL` `Nodemailer`
+
+**Status:** ⚙️ In Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 Laravel Experiments
+
+Building e-commerce functionality while learning Laravel architecture, authentication, databases and CRUD operations.
+
+`PHP` `Laravel` `MySQL`
+
+**Status:** 🧪 Learning & Building
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Experiments
+
+Creating responsive websites while experimenting with modern layouts, animations, interactions and UI ideas.
+
+`HTML` `CSS` `JavaScript`
+
+**Status:** ✨ Always Building
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔬 Currently in the Lab
+
+```text
+🧠  CausalMind        → Decisions, probability & backend logic
+
+⚛️  React / Next.js   → Better component-based web experiences
+
+🐘  PHP / Laravel     → Strengthening backend fundamentals
+
+🧩  DSA               → Building stronger problem-solving skills
+
+🎨  UI Experiments    → Interfaces, layouts & web animations
+
+🔌  APIs              → Connecting frontend, backend & data
+```
 
 ---
 
-### 🍦 IceJunction
-A responsive frontend website built while developing my fundamentals in web design and JavaScript.
+## 🧭 How I Learn
 
-**Tech:** HTML • CSS • JavaScript
+I learn best by actually building things.
 
----
+```text
+      IDEA
+       │
+       ▼
+    BUILD IT
+       │
+       ▼
+   BREAK IT 💥
+       │
+       ▼
+     DEBUG
+       │
+       ▼
+  UNDERSTAND WHY
+       │
+       ▼
+    IMPROVE IT
+       │
+       └──────────────↺
+```
 
-### 🦸 Marvel Comic
-An e-commerce web application project built around comics and merchandise.
+Every project doesn't need to be perfect.
 
-**Tech:** PHP • Laravel • MySQL
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced JavaScript
-- React & Next.js
-- Core PHP & Laravel
-- REST APIs
-- Backend Development
-
----
-
-## 🎯 What I'm Looking For
-
-I'm currently looking for opportunities as a:
-
-**Frontend Developer • Web Developer • Junior Software Developer • PHP/Laravel Developer**
-
-I'm open to **Fresher, Trainee, Internship, and Entry-Level roles** where I can contribute to real projects while growing as a developer.
+It just needs to teach me something I didn't know before.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Journey
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BUZZ1592003&theme=github-dark&hide_border=true)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BUZZ1592003&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUZZ1592003&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=BUZZ1592003&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
+
+## 🎯 Where I'm Heading
+
+I'm working towards starting my professional journey as a developer and contributing to **real products, real codebases and real users**.
+
+I'm particularly interested in:
+
+<div align="center">
+
+`Frontend Development` • `Web Development` • `React` • `Next.js` • `PHP` • `Laravel`
+
+<br/><br/>
+
+### 💼 Open to Opportunities
+
+**Fresher • Trainee • Internship • Entry-Level Developer**
+
+</div>
+
+---
+
+## 🌱 Still Learning. Still Building.
+
+I'm not trying to make this profile look like I know everything.
+
+I'm learning how things work, experimenting with different technologies and improving one project at a time.
+
+```javascript
+while (alive) {
+    learn();
+    build();
+    makeMistakes();
+    debug();
+    improve();
+}
+```
+
+> **Understand the fundamentals. Build real things. Get better with every commit.**
+
+---
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+Interested in development, technology, interesting ideas — or just want to say hi?
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:sohan1592003@gmail.com)
+<br/><br/>
 
----
+<a href="https://www.linkedin.com/in/sohan-chandra-pani-83b796265/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sohan_Chandra_Pani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 💡 Build. Learn. Improve. Repeat.
+<a href="mailto:sohan1592003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=BUZZ1592003&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+### `Code. Learn. Build. Repeat.` 🚀
+
+</div>
